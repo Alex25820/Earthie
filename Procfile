@@ -1,1 +1,1 @@
-
+worker: python Earthie.py
